@@ -1,7 +1,7 @@
 # 🕒 AWTECHS DateHelper
 
-![Packagist Version](https://img.shields.io/packagist/v/Lordeagle4/date-helper?style=flat-square)
-![Downloads](https://img.shields.io/packagist/dt/Lordeagle4/date-helper?style=flat-square)
+![Packagist Version](https://img.shields.io/packagist/v/awtechs/date-helper?style=flat-square)
+![Downloads](https://img.shields.io/packagist/dt/awtechs/date-helper?style=flat-square)
 ![License](https://img.shields.io/github/license/Lordeagle4/date-helper?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/Lordeagle4/date-helper?style=flat-square)
 
