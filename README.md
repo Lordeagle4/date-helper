@@ -2,8 +2,8 @@
 
 ![Packagist Version](https://img.shields.io/packagist/v/awtechs/date-helper?style=flat-square)
 ![Downloads](https://img.shields.io/packagist/dt/awtechs/date-helper?style=flat-square)
-![License](https://img.shields.io/github/license/awtechs/date-helper?style=flat-square)
-![Stars](https://img.shields.io/github/stars/awtechs/date-helper?style=flat-square)
+![License](https://img.shields.io/github/license/Lordeagle4/date-helper?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Lordeagle4/date-helper?style=flat-square)
 
 **AWTECHS DateHelper** is a timezone-aware, business-week-friendly date utility package for Laravel.
 It simplifies formatting dates in Blade using expressive components and directives.
