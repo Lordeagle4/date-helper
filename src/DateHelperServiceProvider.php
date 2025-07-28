@@ -40,7 +40,6 @@ class DateHelperServiceProvider extends ServiceProvider
     public function register(): void
     {
         // You could bind DateHelper in the container if needed
-        
         // $this->app->singleton(DateHelper::class, fn () => new DateHelper());
     }
 }
