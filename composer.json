@@ -1,6 +1,14 @@
 {
   "name": "awtechs/date-helper",
   "description": "A timezone-aware, business-week-friendly Laravel date helper with Blade directives and components.",
+  "keywords": [
+    "laravel",
+    "date",
+    "carbon",
+    "timezone",
+    "business",
+    "helper"
+  ],
   "type": "library",
   "license": "MIT",
   "authors": [
